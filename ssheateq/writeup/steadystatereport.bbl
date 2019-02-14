@@ -1,0 +1,37 @@
+\begin{thebibliography}{1}
+
+\bibitem{LAPACK}
+E.~Anderson, Z.~Bai, C.~Bischof, S.~Blackford, J.~Demmel, J.~Dongarra,
+  J.~Du~Croz, A.~Greenbaum, S.~Hammarling, A.~McKenney, and D.~Sorensen.
+\newblock {\em {LAPACK} Users' Guide}.
+\newblock Society for Industrial and Applied Mathematics, Philadelphia, PA,
+  third edition, 1999.
+
+\bibitem{heateq}
+T.N. Narasimhan.
+\newblock Fourier's heat conduction equation: history, influence, and
+  connections.
+\newblock {\em Reviews of Geophysics}, February 1999.
+
+\bibitem{lu}
+W.H. Press.
+\newblock {\em Numerical Recipes in FORTRAN: The Art of Scientific Computing},
+  chapter 2.3 "LU Decomposition and Its Applications, pages 34--42.
+\newblock Camridge University Press, 2nd edition, 1992.
+
+\bibitem{sblaw}
+Kim Sharp and Franz Matschinsky.
+\newblock Translation of ludwig boltzmann’s paper “on the relationship
+  between the second fundamental theorem of the mechanical theory of heat and
+  probability calculations regarding the conditions for thermal equilibrium”
+  sitzungberichte der kaiserlichen akademie der wissenschaften.
+  mathematisch-naturwissen classe. abt. ii, lxxvi 1877, pp 373-435 (wien. ber.
+  1877, 76:373-435). reprinted in wiss. abhandlungen, vol. ii, reprint 42, p.
+  164-223, barth, leipzig, 1909.
+\newblock {\em Entropy}, 17(4):1971--2009, 2015.
+
+\bibitem{cmb}
+Edward~J. Wollack.
+\newblock Wmap big bang cmb test, 5 2016.
+
+\end{thebibliography}

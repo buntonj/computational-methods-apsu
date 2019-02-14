@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99d (TeX Live 2016)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: quantumprojreport.aux
+The style file: plain.bst
+Database file #1: quantum.bib
+You've used 3 entries,
+            2118 wiz_defined-function locations,
+            516 strings with 4436 characters,
+and the built_in function-call counts, 1008 in all, are:
+= -- 85
+> -- 72
+< -- 0
++ -- 29
+- -- 26
+* -- 74
+:= -- 187
+add.period$ -- 9
+call.type$ -- 3
+change.case$ -- 22
+chr.to.int$ -- 0
+cite$ -- 3
+duplicate$ -- 36
+empty$ -- 67
+format.name$ -- 26
+if$ -- 198
+int.to.chr$ -- 0
+int.to.str$ -- 3
+missing$ -- 6
+newline$ -- 18
+num.names$ -- 6
+pop$ -- 30
+preamble$ -- 1
+purify$ -- 19
+quote$ -- 0
+skip$ -- 18
+stack$ -- 0
+substring$ -- 15
+swap$ -- 3
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 6
+warning$ -- 0
+while$ -- 6
+width$ -- 4
+write$ -- 36

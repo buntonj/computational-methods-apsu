@@ -1,0 +1,20 @@
+\begin{thebibliography}{1}
+
+\bibitem{LAPACK}
+E.~Anderson, Z.~Bai, C.~Bischof, S.~Blackford, J.~Demmel, J.~Dongarra,
+  J.~Du~Croz, A.~Greenbaum, S.~Hammarling, A.~McKenney, and D.~Sorensen.
+\newblock {\em {LAPACK} Users' Guide}.
+\newblock Society for Industrial and Applied Mathematics, Philadelphia, PA,
+  third edition, 1999.
+
+\bibitem{boolesrule}
+George Boole.
+\newblock {\em Calculus of Finite Differences}.
+\newblock Chelsea Pub. Co, 5th edition, 1970.
+
+\bibitem{quantum}
+David~J. Griffiths.
+\newblock {\em Introduction to Quantum Mechanics}.
+\newblock Pearson, 2nd edition, 2005.
+
+\end{thebibliography}

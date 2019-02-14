@@ -1,0 +1,172 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.7 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist[entry]{cms/global/}
+    \entry{me}{unpublished}{}
+      \name{author}{1}{}{%
+        {{hash=1ccc573527d642775f754e793b1f19ed}{%
+           family={Bunton},
+           family_i={B\bibinitperiod},
+           given={Jonathan},
+           given_i={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{1ccc573527d642775f754e793b1f19ed}
+      \strng{fullhash}{1ccc573527d642775f754e793b1f19ed}
+      \field{sortinit}{B}
+      \field{sortinithash}{4ecbea03efd0532989d3836d1a048c32}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{10}
+      \field{note}{Previous Submission}
+      \field{title}{Modeling Interatomic Interactions Using the Morse and Lennard-Jones Potentials}
+      \field{year}{2017}
+    \endentry
+    \entry{ljpotential}{article}{}
+      \name{author}{1}{}{%
+        {{hash=cd2c72b153f286fc4f73a5e3f127314a}{%
+           family={Jones},
+           family_i={J\bibinitperiod},
+           given={J.\bibnamedelimi E.},
+           given_i={J\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {The Royal Society}%
+      }
+      \strng{namehash}{cd2c72b153f286fc4f73a5e3f127314a}
+      \strng{fullhash}{cd2c72b153f286fc4f73a5e3f127314a}
+      \field{sortinit}{J}
+      \field{sortinithash}{ec3950a647c092421b9fcca6d819504a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0950-1207}
+      \field{journaltitle}{Proceedings of the Royal Society of London A: Mathematical, Physical and Engineering Sciences}
+      \field{number}{738}
+      \field{title}{On the Determination of Molecular Fields. II. From the Equation of State of a Gas}
+      \field{volume}{106}
+      \field{year}{1924}
+      \field{pages}{463\bibrangedash 477}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1098/rspa.1924.0082
+      \endverb
+      \verb{eprint}
+      \verb http://rspa.royalsocietypublishing.org/content/106/738/463.full.pdf
+      \endverb
+      \verb{url}
+      \verb http://rspa.royalsocietypublishing.org/content/106/738/463
+      \endverb
+    \endentry
+    \entry{rk4}{article}{}
+      \name{author}{1}{}{%
+        {{hash=e0b82bd627770b993ce67ea02b802c4c}{%
+           family={Kutta},
+           family_i={K\bibinitperiod},
+           given={Martin\bibnamedelima W.},
+           given_i={M\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \strng{namehash}{e0b82bd627770b993ce67ea02b802c4c}
+      \strng{fullhash}{e0b82bd627770b993ce67ea02b802c4c}
+      \field{sortinit}{K}
+      \field{sortinithash}{a7d5b3aec5a0890aae7baf85a209abfc}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Zeitschrift f\"{u}r Methematik und Physik}
+      \field{title}{Beitrag zur n\"{a}herungsweisen Integration totaler Differentialgleichungen}
+      \field{year}{1901}
+    \endentry
+    \entry{mconstants}{article}{}
+      \name{author}{1}{}{%
+        {{hash=0c9041d92c386e568036ddd0f27ea544}{%
+           family={Matsumo},
+           family_i={M\bibinitperiod},
+           given={Akira},
+           given_i={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{0c9041d92c386e568036ddd0f27ea544}
+      \strng{fullhash}{0c9041d92c386e568036ddd0f27ea544}
+      \field{sortinit}{M}
+      \field{sortinithash}{2684bec41e9697b92699b46491061da2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Z. Naturforsch}
+      \field{title}{Parameters of the Morse Potential from Second Virial Coefficients of Gases}
+      \field{volume}{42a}
+      \field{year}{1987}
+    \endentry
+    \entry{mpotential}{article}{}
+      \name{author}{1}{}{%
+        {{hash=db83cb8dce3df367ee72ed104bcd48f6}{%
+           family={Morse},
+           family_i={M\bibinitperiod},
+           given={Philip\bibnamedelima M.},
+           given_i={P\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Physical Society}%
+      }
+      \strng{namehash}{db83cb8dce3df367ee72ed104bcd48f6}
+      \strng{fullhash}{db83cb8dce3df367ee72ed104bcd48f6}
+      \field{sortinit}{M}
+      \field{sortinithash}{2684bec41e9697b92699b46491061da2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issue}{1}
+      \field{journaltitle}{Phys. Rev.}
+      \field{month}{07}
+      \field{title}{Diatomic Molecules According to the Wave Mechanics. II. Vibrational Levels}
+      \field{volume}{34}
+      \field{year}{1929}
+      \field{pages}{57\bibrangedash 64}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1103/PhysRev.34.57
+      \endverb
+      \verb{url}
+      \verb https://link.aps.org/doi/10.1103/PhysRev.34.57
+      \endverb
+    \endentry
+    \entry{ljconstants}{article}{}
+      \name{author}{2}{}{%
+        {{hash=e777daa7194bfc12fc5af29c77de94c6}{%
+           family={Whalley},
+           family_i={W\bibinitperiod},
+           given={E.},
+           given_i={E\bibinitperiod}}}%
+        {{hash=854ab28a1d43f0addabf1d91d1aa402e}{%
+           family={Schneider},
+           family_i={S\bibinitperiod},
+           given={W.G.},
+           given_i={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{8ff6ca28de92029450a23ba39e7f8e66}
+      \strng{fullhash}{8ff6ca28de92029450a23ba39e7f8e66}
+      \field{sortinit}{W}
+      \field{sortinithash}{99e3ba1b3f78bb6f073e7fa7ac11636b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Journal of Chemical Physics}
+      \field{title}{Intermolecular Potentials of Argon, Krypton, and Xenon}
+      \field{volume}{23}
+      \field{year}{1955}
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+

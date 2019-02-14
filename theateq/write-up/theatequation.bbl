@@ -1,0 +1,43 @@
+\begin{thebibliography}{1}
+
+\bibitem{polysilicon}
+American Elements, 1093 Broxton Avenue, Los Angeles, CA.
+\newblock {\em Polycrystalline Silicon}, 2017.
+\newblock Technical data sheet page for polycrystalline silicon sales in ingot
+  or powder form.
+
+\bibitem{lastpaper}
+Jonathan Bunton.
+\newblock Solving for the steady-state solution of the heat equation in a cubic
+  satellite.
+\newblock Previous Submission, October 2017.
+
+\bibitem{polystyrene}
+W~Glenz.
+\newblock Rigid polystyrene foam (eps, xps).
+\newblock 100:73--77, 01 2010.
+
+\bibitem{rk4}
+Martin~W. Kutta.
+\newblock Beitrag zur n\"aherungsweisen integration totaler
+  differentialgleichungen.
+\newblock {\em Zeitschrift f\"ur Methematik und Physik}, 1901.
+
+\bibitem{heateq}
+T.N. Narasimhan.
+\newblock Fourier's heat conduction equation: history, influence, and
+  connections.
+\newblock {\em Reviews of Geophysics}, February 1999.
+
+\bibitem{sblaw}
+Kim Sharp and Franz Matschinsky.
+\newblock Translation of ludwig boltzmann’s paper “on the relationship
+  between the second fundamental theorem of the mechanical theory of heat and
+  probability calculations regarding the conditions for thermal equilibrium”
+  sitzungberichte der kaiserlichen akademie der wissenschaften.
+  mathematisch-naturwissen classe. abt. ii, lxxvi 1877, pp 373-435 (wien. ber.
+  1877, 76:373-435). reprinted in wiss. abhandlungen, vol. ii, reprint 42, p.
+  164-223, barth, leipzig, 1909.
+\newblock {\em Entropy}, 17(4):1971--2009, 2015.
+
+\end{thebibliography}

@@ -1,0 +1,38 @@
+\begin{thebibliography}{1}
+
+\bibitem{boxmuller}
+G.~E.~P. Box and Mervin~E. Muller.
+\newblock A note on the generation of random normal deviates.
+\newblock {\em Ann. Math. Statist.}, 29(2):610--611, 06 1958.
+
+\bibitem{ljpotential}
+J.~E. Jones.
+\newblock On the determination of molecular fields. ii. from the equation of
+  state of a gas.
+\newblock {\em Proceedings of the Royal Society of London A: Mathematical,
+  Physical and Engineering Sciences}, 106(738):463--477, 1924.
+
+\bibitem{mconstants}
+Akira Matsumo.
+\newblock Parameters of the morse potential from second virial coefficients of
+  gases.
+\newblock {\em Z. Naturforsch}, 42a, 1987.
+
+\bibitem{mpotential}
+Philip~M. Morse.
+\newblock Diatomic molecules according to the wave mechanics. ii. vibrational
+  levels.
+\newblock {\em Phys. Rev.}, 34:57--64, Jul 1929.
+
+\bibitem{verlet}
+Loup Verlet.
+\newblock Computer "experiments" on classical fluids. i. thermodynamical
+  properties of lennard-jones molecules.
+\newblock {\em Phys. Rev.}, 159:98--103, Jul 1967.
+
+\bibitem{ljconstants}
+E.~Whalley and W.G. Schneider.
+\newblock Intermolecular potentials of argon, krypton, and xenon.
+\newblock {\em The Journal of Chemical Physics}, 23, 1955.
+
+\end{thebibliography}

@@ -1,0 +1,21 @@
+\begin{thebibliography}{1}
+
+\bibitem{isingmodel}
+H.~Gould and J.~Tobochnik.
+\newblock {\em Thermal and Statistical Physics}, chapter 5: Magnetic Systems.
+\newblock Princeton University Press, January 2015.
+
+\bibitem{fromjesse}
+Robert~J. Lancashire.
+\newblock Magnetism, 2011.
+
+\bibitem{montecarlo}
+N.~Metropolis, A.~Rosenbluth, M.~Rosenbluth, A.~Teller, and E.~Teller.
+\newblock Equation of state calculations by fast computing machines.
+\newblock {\em Journal of Chemical Physics}, 21(6), June 1953.
+
+\bibitem{magnettypes}
+Bruce~M. Moskowitz.
+\newblock Hitchhiker's guide to magnetism, June 1991.
+
+\end{thebibliography}

@@ -1,0 +1,51 @@
+This is BibTeX, Version 0.99d (TeX Live 2016)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: IsingModelReport.aux
+The style file: plain.bst
+Database file #1: ising.bib
+Warning--entry type for "magnettypes" isn't style-file defined
+--line 19 of file ising.bib
+Warning--entry type for "fromjesse" isn't style-file defined
+--line 31 of file ising.bib
+You've used 4 entries,
+            2118 wiz_defined-function locations,
+            520 strings with 4475 characters,
+and the built_in function-call counts, 1036 in all, are:
+= -- 87
+> -- 55
+< -- 1
++ -- 22
+- -- 18
+* -- 64
+:= -- 183
+add.period$ -- 10
+call.type$ -- 4
+change.case$ -- 20
+chr.to.int$ -- 0
+cite$ -- 4
+duplicate$ -- 38
+empty$ -- 89
+format.name$ -- 18
+if$ -- 211
+int.to.chr$ -- 0
+int.to.str$ -- 4
+missing$ -- 3
+newline$ -- 21
+num.names$ -- 8
+pop$ -- 34
+preamble$ -- 1
+purify$ -- 17
+quote$ -- 0
+skip$ -- 31
+stack$ -- 0
+substring$ -- 20
+swap$ -- 5
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 14
+warning$ -- 0
+while$ -- 8
+width$ -- 5
+write$ -- 40
+(There were 2 warnings)

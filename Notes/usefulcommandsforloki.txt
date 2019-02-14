@@ -1,0 +1,3 @@
+sinfo -> basic stats
+squeue -> details
+squeue - l -> more details
